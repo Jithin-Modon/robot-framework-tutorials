@@ -1,0 +1,30 @@
+1658750194275	geckodriver	INFO	Listening on 127.0.0.1:55888
+1658750194792	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55889" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/t1/zljcs8jn49l0x_j6xpgrkzqr0000gp/T/rust_mozprofilePGMOo8"
+2022-07-25 17:26:35.063 plugin-container[30733:273492] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-07-25 17:26:35.063 plugin-container[30733:273492] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1658750195066	Marionette	INFO	Marionette enabled
+2022-07-25 17:26:35.084 plugin-container[30733:273492] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-07-25 17:26:35.084 plugin-container[30733:273492] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-07-25 17:26:35.084 plugin-container[30733:273490] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-07-25 17:26:35.084 plugin-container[30733:273490] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1658750195088	Marionette	INFO	Listening on port 55896
+WebDriver BiDi listening on ws://localhost:55889
+Read port: 55896
+1658750195240	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/t1/zljcs8jn49l0x_j6xpgrkzqr0000gp/T/rust_mozprofilePGMOo8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55889/devtools/browser/4ca00603-fda9-43d6-8104-992221ac0e9b
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+JavaScript error: https://ir.ebaystatic.com/rs/c/inception-df8LT1IB.js, line 6: NetworkError: A network error occurred.
+JavaScript error: https://ir.ebaystatic.com/rs/c/inception-df8LT1IB.js, line 6: NetworkError: A network error occurred.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.ebay.com"
+JavaScript error: https://ir.ebaystatic.com/rs/c/desktop_ac_0621v1.js, line 38: TypeError: a is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.ebay.com"
+JavaScript error: https://ir.ebaystatic.com/rs/c/desktop_ac_0621v1.js, line 38: TypeError: a is undefined
+JavaScript error: https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=mobile&_sacat=0, line 1: TypeError: r[1] is undefined
+2022-07-25 11:56:40.877 plugin-container[30747:273795] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-07-25 11:56:40.877 plugin-container[30747:273795] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-07-25 11:56:40.879 plugin-container[30747:273795] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-07-25 11:56:40.879 plugin-container[30747:273795] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-07-25 11:56:40.879 plugin-container[30747:273796] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-07-25 11:56:40.879 plugin-container[30747:273796] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1658750201270	Marionette	INFO	Stopped listening on port 55896
